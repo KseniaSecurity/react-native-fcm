@@ -1,5 +1,9 @@
 [![Join the chat at https://gitter.im/evollu/react-native-fcm](https://badges.gitter.im/evollu/react-native-fcm.svg)](https://gitter.im/evollu/react-native-fcm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+## Update (06/12/2019)
+
+With this version (16.2.5) we try to fix that issue [error: cannot find symbol import com.google.firebase.iid.FirebaseInstanceIdService](https://github.com/evollu/react-native-fcm/issues/1111)
+
 ## Deprecated
 I'm not longer able to maintain this repo.
 check [react-native-firebase](https://rnfirebase.io) instead
